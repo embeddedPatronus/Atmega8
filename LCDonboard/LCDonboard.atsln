@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "LCDonboard", "LCDonboard\LCDonboard.cproj", "{A587C65A-8ED6-499C-B34C-1A8100C60620}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A587C65A-8ED6-499C-B34C-1A8100C60620}.Debug|AVR.ActiveCfg = Debug|AVR
+		{A587C65A-8ED6-499C-B34C-1A8100C60620}.Debug|AVR.Build.0 = Debug|AVR
+		{A587C65A-8ED6-499C-B34C-1A8100C60620}.Release|AVR.ActiveCfg = Release|AVR
+		{A587C65A-8ED6-499C-B34C-1A8100C60620}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
