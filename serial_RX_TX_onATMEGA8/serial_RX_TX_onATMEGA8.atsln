@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "serial_RX_TX_onATMEGA8", "serial_RX_TX_onATMEGA8\serial_RX_TX_onATMEGA8.cproj", "{E36F71D0-3DA9-45E9-9F28-EA66EF00A35B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E36F71D0-3DA9-45E9-9F28-EA66EF00A35B}.Debug|AVR.ActiveCfg = Debug|AVR
+		{E36F71D0-3DA9-45E9-9F28-EA66EF00A35B}.Debug|AVR.Build.0 = Debug|AVR
+		{E36F71D0-3DA9-45E9-9F28-EA66EF00A35B}.Release|AVR.ActiveCfg = Release|AVR
+		{E36F71D0-3DA9-45E9-9F28-EA66EF00A35B}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
