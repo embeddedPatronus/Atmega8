@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "3potLCD_onATMEGA8", "3potLCD_onATMEGA8\3potLCD_onATMEGA8.cproj", "{122340B9-9BB9-4A9B-8639-7522F275DA90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{122340B9-9BB9-4A9B-8639-7522F275DA90}.Debug|AVR.ActiveCfg = Debug|AVR
+		{122340B9-9BB9-4A9B-8639-7522F275DA90}.Debug|AVR.Build.0 = Debug|AVR
+		{122340B9-9BB9-4A9B-8639-7522F275DA90}.Release|AVR.ActiveCfg = Release|AVR
+		{122340B9-9BB9-4A9B-8639-7522F275DA90}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
